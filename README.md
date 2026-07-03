@@ -23,10 +23,10 @@ Para correr la simulación del ciclo de facturación completo, ejecuta los scrip
 
 ```bash
 # 1. Generar la materia prima (CDRs)
-python OFCS_Generator.py
+python script.py
 
 # 2. Ejecutar el motor de valoración financiera
-python OFCS_Rating.py
+python OFCS_RATING.py
 
 # 3. Consolidar el recibo de facturación mensual
-python OFCS_Billing.py
+python OFCS_BILLING.py
