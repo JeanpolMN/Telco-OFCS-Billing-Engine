@@ -1,11 +1,11 @@
-# 📡 Telco OFCS & Billing Engine (Motor de Tarifación Pospago)
+# 📡 Telco OFCS & Billing Engine (Motor de Tarifación Postpago)
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-green.svg)
 ![Telco](https://img.shields.io/badge/Domain-Telecom%20%2F%20VAS-orange.svg)
 
 ## 📌 Descripción del Proyecto
-Este proyecto es una simulación funcional de un **Offline Charging System (OFCS)**, el core financiero utilizado en las redes de telecomunicaciones móviles para el procesamiento, tasación (Rating) y facturación (Billing) del tráfico Pospago.
+Este proyecto es una simulación funcional de un **Offline Charging System (OFCS)**, el core financiero utilizado en las redes de telecomunicaciones móviles para el procesamiento, tasación (Rating) y facturación (Billing) del tráfico Postpago.
 
 El sistema procesa registros de llamadas (CDRs - *Call Detail Records*) en bruto, cruza el consumo de red con un catálogo de reglas de negocio financieras y consolida la facturación mensual por usuario mediante procesos de extracción y transformación de datos (ETL).
 
